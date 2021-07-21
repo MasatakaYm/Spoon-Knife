@@ -16,13 +16,13 @@ $ git clone git@githu.com:<user-name>/Spoon-Knife
 $ cd Spoon-Knife
 ```
 
-You can confirm remote repository as follows
+You can confirm the remote repository as follows:
 ```sh
 $ git remote -v
 ```
 
-Edit file, commit changes, and then push then to the remote repository.
-``sh
+Edit files, commit changes, and then push then to the remote repository.
+```sh
 $ emacs README.md
 $ git add README.md
 $ git commit "Change"
